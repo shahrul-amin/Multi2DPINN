@@ -39,7 +39,7 @@ The repository includes a script to visualize the wire geometries representing t
 
 - **First Stage**: In the first stage, the base structure components and initial segments are plotted to visualize the foundational topology.
   
-  ![First Stage Wire Visualization](assets/wire%20visualization.png)
+  ![First Stage Wire Visualization](assets/wire_visualization.png)
 
 - **Second Stage**: The second stage visualizes the complex, refined wire branching or full topology iterations derived from the models. The multi-stage representation visually distinguishes between parent and child segments in the wire progression. 
   
