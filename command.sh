@@ -1,0 +1,2 @@
+python train_ss.py --data-path ./data/EMdataset_10seg_1n2/
+python train_afd.py --data-path ./data/test_trees/ --model-path ./run/first_stage/EMdataset_10seg_1n2/EM1d_Epochs10_20260410110144/trial_function_mlp_9.pkl --testcase 8000
