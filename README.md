@@ -2,19 +2,6 @@
 
 This repository contains the implementation of a Multi-stage 2D Physics-Informed Neural Network (PINN) for Electromagnetics (EM) modeling. 
 
-## Project Structure
-
-- **data/**: Contains datasets used for testing and training, including `.geo` (geometry) and `.mat` (material/features) files.
-- **data_gen/**: Scripts for dataset generation and simulation (e.g., `simulate.py`, `autoGenGeo_correct.py`).
-- **src/**: Core source code including definitions for the `first_stage` and `second_stage` networks.
-- **run/**: Results and execution metadata for different stages and experiments.
-- **train_afd.py**, **train_ss.py**: Training scripts for different models or stages.
-- **plot_geometry.py**: Utility script to visualize the wire geometry from `.geo` files.
-
-## Wire Visualization
-
-The repository includes a script to visualize the wire geometries representing the segments. The visualization is constructed by reading the coordinate, length, and width parameters from OpenCASCADE format `.geo` files and plotting each segment.
-
 ### How to use
 
 1. **Environment Setup**: Create a conda environment from `environment.yml`.
