@@ -1,6 +1,6 @@
 # Multi2DPINN-EM
 
-This repository contains the implementation of a Multi-stage 2D Physics-Informed Neural Network (PINN) for Electromagnetics (EM) modeling. 
+This repository contains the implementation of a Multi-stage 2D Physics-Informed Neural Network (PINN) for Electromigration (EM) modeling. 
 
 ### How to use
 
